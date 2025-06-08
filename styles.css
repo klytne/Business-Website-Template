@@ -1,0 +1,52 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  
+  ul {
+    display: flex;
+    gap: 2rem;
+  }
+}
+
+.website-info {
+  display: flex;
+  gap: 2rem;
+  
+  .info-text, .img-container {
+    flex: 1;
+  }
+}
+
+.random-info {
+  text-align: center;
+  
+  .content-container {
+    display: flex;
+    gap: 2rem;
+    
+    .box-container {
+      flex: 1;
+    }
+  }
+}
+
+.customer-feedback {
+  .customer-details {
+    text-align: right;
+  }
+}
+
+.cta {
+  display: flex;
+  
+  .cta-box {
+    display: flex;
+    margin: 2rem auto;
+    gap: 2rem;
+    padding: 1rem 3rem;
+  }
+}
+
+footer {
+  text-align: center;
+}
