@@ -5,26 +5,23 @@ A business landing page featuring description of the business, services provided
 ## Overview
 ### Desktop
 
-<img src="#">
-
-### Mobile
-
-<img src="#">
+<img src="/images/desktop.png">
 
 ## Links
 <ul>
-  <li><a href="#">Live</a></li>
+  <li><a href="https://klytne.github.io/Business-Website-Template/">Live</a></li>
 </ul>
 
 ## My Process
 ### Languages
 <ul>
-  <li>...</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
 
 ### What I learnt
 <ul>
-  <li>Found out at the end of the project....</li>
+  <li>Flexbox: the ways flex-basis, flex-shrink and flex-grow affect the different view sizes of an object.</li>
 </ul>
 
 ## Acknowledgements
